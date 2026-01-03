@@ -6,6 +6,9 @@ This project adds a smooth voxel terrain system to godot.
 More precisely, it uses an octree to store an SDF, which is then meshed using a custom version of surface nets. Level of detail systems are in place for large viewing distances.
 
 
+
+
+Раз Два Три
 ## Getting Started
 
 ### Installation
